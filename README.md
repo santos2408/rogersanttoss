@@ -1,4 +1,4 @@
-<h1>MEU PORTFÓLIO</h1>
+<h1 style="text-align:center">MEU PORTFÓLIO</h1>
 
 - 👋 Hi, I’m @santos2408
 - 👀 I’m interested in ...
