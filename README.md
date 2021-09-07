@@ -3,7 +3,7 @@
 - 👋 Eae, me chamo Roger Santos
 - 👀  Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando HTML, CSS e Javascript
-- 💞️ Busco colaborar com projetos pequenos, aprendendo como funciona o fluxo de trabalho real de um desenvolvedor front-end.
+- 💞️ Busco desenvolver projetos pequenos, aprendendo como funciona o fluxo de trabalho real de um desenvolvedor front-end.
 - 📫 Entre em contato comigo através do email: roger.santos36@gmail.com
 
 <!---
