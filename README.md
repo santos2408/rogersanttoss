@@ -6,7 +6,8 @@
   
   Meu nome é Roger Santos, moro no Rio de Janeiro, Brasil e estou cursando Análise e Desenvolvimento de Sistemas na faculdade Estácio de Sá.
 
-  Atualmente estudo as tecnologias HTML, CSS e Javascript através de cursos online com o objetivo de criar aplicações web bem desenvolvidas. Estou em busca do meu primeiro emprego na área de tecnologia e através da minha página você poderá acompanhar minha evolução.
+  Atualmente estudo as tecnologias HTML, CSS e Javascript através de cursos online com o objetivo de criar aplicações web bem desenvolvidas. 
+  Estou em busca do meu primeiro emprego na área de tecnologia e através da minha página você poderá acompanhar minha evolução.
 
 <div>
   <a href="https://github.com/santos2408">
