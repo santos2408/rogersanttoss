@@ -1,9 +1,9 @@
 
-  ## Olá, tudo bem?
-
   <div style="display: inline-block">
-    <img align="right" alt="Roger-code" width="300em" src="https://i.imgur.com/MvMxQ1a.gif">
+    <img align="right" alt="Roger-code" width="200em" src="https://i.imgur.com/MvMxQ1a.gif">
   </div>
+  
+  ## Olá, tudo bem?
   
   Meu nome é Roger Santos, moro no Rio de Janeiro, Brasil e estou cursando Análise e Desenvolvimento de Sistemas na faculdade Estácio de Sá.
 
