@@ -1,6 +1,5 @@
-
   <div style="display: inline-block">
-    <img align="right" alt="Roger-code" width="150em" src="https://i.imgur.com/MvMxQ1a.gif">
+    <img align="right" alt="Roger-code" width="200em" src="https://i.imgur.com/MvMxQ1a.gif">
   </div>
   
   ## Olá, tudo bem?
