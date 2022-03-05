@@ -1,7 +1,7 @@
 
   ## Olá, tudo bem?
 
-  <di>
+  <div style="display: inline-block">
     <img align="right" alt="Roger-code" width="300em" src="https://i.imgur.com/MvMxQ1a.gif">
   </div>
   
