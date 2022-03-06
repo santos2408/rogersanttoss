@@ -2,7 +2,7 @@
     <img align="right" alt="Roger-code" width="300em" src="https://i.imgur.com/MvMxQ1a.gif">
   </div> -->
   
-  ## Olá, tudo bem?
+  ## 🖖 Olá, tudo bem?
   
   Meu nome é Roger Santos, sou front-end developer, moro no Rio de Janeiro, Brasil e <br> estou cursando Análise e Desenvolvimento de Sistemas na faculdade Estácio de Sá.
 
