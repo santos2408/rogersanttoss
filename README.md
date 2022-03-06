@@ -6,7 +6,7 @@
   
   Meu nome é Roger Santos, sou front-end developer, moro no Rio de Janeiro, Brasil e <br> estou cursando Análise e Desenvolvimento de Sistemas na faculdade Estácio de Sá.
 
-  Atualmente estudo as tecnologias HTML, CSS e Javascript através de cursos online com o objetivo de criar aplicações web <br> bem desenvolvidas. 
+  Atualmente estudo as tecnologias HTML, CSS e Javascript através de cursos online com <br> o objetivo de criar aplicações web <br> bem desenvolvidas. 
   Estou em busca do meu primeiro emprego na área de tecnologia e através da minha página você poderá <br> acompanhar minha evolução.
 
 <div>
