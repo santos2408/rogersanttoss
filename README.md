@@ -4,7 +4,7 @@
   
   ## Olá, tudo bem?
   
-  Meu nome é Roger Santos, moro no Rio de Janeiro, Brasil e estou cursando Análise e Desenvolvimento de Sistemas na <br> faculdade Estácio de Sá.
+  Meu nome é Roger Santos, sou front-end developer, moro no Rio de Janeiro, Brasil e <br> estou cursando Análise e Desenvolvimento de Sistemas na <br> faculdade Estácio de Sá.
 
   Atualmente estudo as tecnologias HTML, CSS e Javascript através de cursos online com o objetivo de criar aplicações web <br> bem desenvolvidas. 
   Estou em busca do meu primeiro emprego na área de tecnologia e através da minha página você poderá <br> acompanhar minha evolução.
