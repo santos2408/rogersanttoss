@@ -10,7 +10,7 @@
   Estou em busca do meu primeiro <br> emprego na área de tecnologia e através da minha página você poderá acompanhar <br> minha evolução.
 <div>
   <a href="https://github.com/santos2408">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=santos2408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=santos2408"/>
 </div>
 
 <div style="display: inline_block"><br>
