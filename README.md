@@ -9,7 +9,7 @@
   Atualmente estudo as tecnologias HTML, CSS, Javascript, SASS, Git e Github através de cursos online com <br> o objetivo de criar aplicações web bem desenvolvidas. 
   Estou em busca do meu primeiro <br> emprego na área de tecnologia e através da minha página você poderá acompanhar <br> minha evolução.
   
-### Detailed information
+### Informações
 - Nome: Roger Santos
 - Age: 25
 - Localização: Rio de Janeiro, RJ - Brasil
