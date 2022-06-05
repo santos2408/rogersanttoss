@@ -4,10 +4,16 @@
   
   ## Olá, tudo bem? 
   
-  Meu nome é Roger Santos, sou front-end developer junior, moro no Rio de Janeiro, Brasil e <br> sou formado em Análise e Desenvolvimento de Sistemas na faculdade Estácio de Sá.
+  Meu nome é Roger Santos, sou front-end developer junior, moro no Rio de Janeiro, Brasil e <br> sou formado em Análise e Desenvolvimento de Sistemas na faculdade Estácio de Sá e também Técnico em Informática pelo SENAC/RJ.
 
-  Atualmente estudo as tecnologias HTML, CSS e Javascript através de cursos online com <br> o objetivo de criar aplicações web bem desenvolvidas. 
+  Atualmente estudo as tecnologias HTML, CSS, Javascript, SASS, Git e Github através de cursos online com <br> o objetivo de criar aplicações web bem desenvolvidas. 
   Estou em busca do meu primeiro <br> emprego na área de tecnologia e através da minha página você poderá acompanhar <br> minha evolução.
+  
+### Detailed information
+- Nome: Roger Santos
+- Age: 25
+- Localização: Rio de Janeiro, RJ - Brasil
+- Stack: Javascript, Sass, Git, HTML, CSS e BEM
 <!-- <div>
   <a href="https://github.com/santos2408">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=santos2408"/>
