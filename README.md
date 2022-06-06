@@ -33,3 +33,7 @@ Estou em busca do meu primeiro emprego na área de tecnologia e através da minh
   <a href = "mailto:roger.santos36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roger-santos-77a84810b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santos2408&hide=contribs,prs&show_icons=true&theme=tokyonight)
