@@ -8,8 +8,6 @@
 - ⚡ Pertencente a casa Stark de Winterfell.
 - [Portfólio](http://rogerdev.com.br/)
 
-<br />
-
 ### Linguagens e ferramentas:
 
 ---
