@@ -9,7 +9,13 @@
 
 ### Contecte-se comigo:
 
-[Portfólio](http://www.google.com.br)
+[Acessar Portfólio](http://rogerdev.com.br/)
+
+<div>
+  <a href="https://instagram.com/rogersanttoss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/roger-santos-77a84810b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ### Linguagens e ferramentas:
 
