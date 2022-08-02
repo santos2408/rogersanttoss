@@ -9,7 +9,7 @@
 
 ### Contecte-se comigo:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[Portfólio](http://www.google.com.br)
 
 ### Linguagens e ferramentas:
 
