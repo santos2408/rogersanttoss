@@ -41,13 +41,14 @@
   <a href="https://instagram.com/rogersanttoss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
-
 ---
 
 <details open>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Roger Santos GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=santos2408&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
+<img src="https://user-images.githubusercontent.com/20451520/182742136-800db20c-b7ca-40d7-8f75-827082094ea2.gif" width="200" />
+
 
 </details>
