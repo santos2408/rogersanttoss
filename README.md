@@ -8,7 +8,7 @@
 - 👯 Disposto a colaborar em novos projetos onde possa me desenvolver ainda mais.
 - 🥅 Metas 2022: conseguir uma oportunidade no mercado.
 - 🐺 Pertencente a casa Stark de Winterfell.
-- 💻 [Meu Portfólio](http://rogerdev.com.br/)
+<!-- - 💻 [Meu Portfólio](http://rogerdev.com.br/) -->
 
 ### Linguagens e ferramentas:
 
