@@ -6,7 +6,7 @@
 
 - 📚 Atualmente estudando HTML, CSS, SASS, JavaScript e Vue
 - 👯 Disposto a colaborar em novos projetos onde possa me desenvolver ainda mais.
-- 🥅 Metas 2022: conseguir uma oportunidade no mercado.
+- 🥅 Metas 2023: expandir os conhecimentos e subir de nível
 - 🐺 Pertencente a casa Stark de Winterfell.
 - 💻 [Meu Portfólio](https://rogersanttoss-portfolio.netlify.app/)
 
