@@ -1,6 +1,6 @@
 # Olá, tudo bem? 👋
 
-<p>Meu nome é Roger Santos, atualmente estou estudando desevolvimento web, moro no Rio de Janeiro, Brasil e sou formado em Análise e Desenvolvimento de Sistemas na faculdade Estácio de Sá e também Técnico em Informática pelo SENAC/RJ. Estou em busca da minha primeira oportunidade na área de tecnologia e através da minha página você poderá acompanhar minha evolução.</p>
+<p>Meu nome é Roger Santos, atualmente estou estudando desevolvimento web, moro no Rio de Janeiro, Brasil e sou formado em Análise e Desenvolvimento de Sistemas na faculdade Estácio de Sá e também Técnico em Informática pelo SENAC/RJ. Através da minha página você poderá acompanhar minha evolução.</p>
 
 ## Front-end Developer Jr.
 
