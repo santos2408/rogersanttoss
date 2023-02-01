@@ -52,3 +52,5 @@
 
 
 </details>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=santos2408&repo=github-readme-stats)](https://github.com/santos2408/github-readme-stats)
