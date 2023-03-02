@@ -4,7 +4,7 @@
 
 ## Front-end Developer Jr.
 
-- 📚 Atualmente estudando HTML, CSS, SASS, JavaScript e Vue
+- 📚 Atualmente estudando HTML, CSS, SASS e JavaScript
 - 👯 Disposto a colaborar em novos projetos onde possa me desenvolver ainda mais.
 - 🥅 Metas 2023: expandir os conhecimentos e subir de nível
 - 🐺 Pertencente a casa Stark de Winterfell.
