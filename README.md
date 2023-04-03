@@ -7,7 +7,7 @@
 - 📚 Atualmente estudando HTML, CSS, SASS e JavaScript
 - 👯 Disposto a colaborar em novos projetos onde possa me desenvolver ainda mais.
 - 🥅 Metas 2023: expandir os conhecimentos e subir de nível
-- 🐺 Pertencente a casa Stark de Winterfell.
+- 🐺 Pertencente à casa Stark de Winterfell.
 - 💻 [Meu Portfólio](https://rogersanttoss-portfolio.netlify.app/)
 
 ### Linguagens e ferramentas:
