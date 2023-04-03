@@ -49,7 +49,6 @@
   <img align="left" alt="Roger Santos GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=santos2408&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   
 <!-- <img src="https://user-images.githubusercontent.com/20451520/182742136-800db20c-b7ca-40d7-8f75-827082094ea2.gif" width="330" height="194" /> -->
-  <img src="https://imgur.com/hDOfuOx" width="330" height="194" />
-
+  <img src="hacker-typing](https://user-images.githubusercontent.com/20451520/229517492-6cb6a234-a411-40cd-bf2d-9dfa0139f87a.gif" width="330" height="194" />
 
 </details>
